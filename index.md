@@ -1,4 +1,4 @@
-# [Noah](https://ntrupin.com)'s First CS193 Homework
+# Noah's First CS193 Homework
 
 **My favorite things about CS193**
 
